@@ -1,6 +1,9 @@
 #include <cs50.h>
 #include <stdio.h>
 
+
+//understanding relational operators
+
 int main(void)
 
 {

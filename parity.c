@@ -1,6 +1,8 @@
 #include <cs50.h>
 #include <stdio.h>
 
+//understanding Arithmetic Operators
+
 int main (void)
 {
     int n = get_int("n: ");
