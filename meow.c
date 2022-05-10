@@ -1,17 +1,24 @@
 #include <stdio.h>
 
-int i = 1;
-while (i <= 3)
+// Understanding while loops, for lopps and boolean operators
 
-{ 
-    printf("Meow\n");
-    i++;
+/*
+int main()
+{
+   int i = 0;
+   while (i <= 3)
+   {
+       printf("meow\n");
+       i++;
+   }
+   
 }
 
+*/
 
-// for (i = 0; i < 3; i++)
-// {
-//   printf("meow\n");
-// }
+int main();
 
-// Understanding while loops, for lopps and boolean operators
+for (i = 0; i <= 3; i++)
+{
+    printf("meow\n");
+}
