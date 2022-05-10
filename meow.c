@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Understanding while loops, for lopps and boolean operators
+// While lopp
 
 /*
 int main()
@@ -16,9 +16,40 @@ int main()
 
 */
 
-int main();
+// For loop and prototypes
 
-for (i = 0; i <= 3; i++)
+/*
+void meow();
+
+int main(void)
+{
+    for(int i = 0; i < 3; i++)
+    {
+        meow();
+    }
+}
+
+void meow(void)
 {
     printf("meow\n");
+}
+*/
+
+
+// modularizing my code
+
+void meow(int n);
+
+int main(void)
+{
+    meow(3);
+}
+
+void meow(int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        printf("meow\n");
+    }
+    
 }
