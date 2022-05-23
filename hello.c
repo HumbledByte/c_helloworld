@@ -4,5 +4,5 @@
 
 int main(void)
 {
-    printf("ohhhh now this makes sense");
+    printf("example for mike");
 }
