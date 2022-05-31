@@ -22,9 +22,9 @@ int get_length(string s);
 
 int main(void)
 {
-    int name = get_string("Name: ");
+    string name = get_string("Name: ");
     int length = get_length(name);
-    printf("%i, length");
+    printf("%i\n", length);
 
 
 }
