@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-// Iterating through a string
+// Iterating through a string and getting a lenght of the string manually
 
 /*
 int main(void)
