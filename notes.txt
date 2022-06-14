@@ -1,0 +1,10 @@
+Big O Notation - Run time of a program. 
+    We say this "On the order of N steps", the upper bound
+
+
+Big Omega - 
+    Lower bound of a program, least steps
+
+Big Theta -
+    Upper bound is the same of the lower bound  "In the of such and such"
+
