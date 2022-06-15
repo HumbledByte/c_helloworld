@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Using string compare, exit statuses and arrays
+// Learning structs
 
 typedef struct 
 {
