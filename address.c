@@ -20,7 +20,7 @@ int main(void)
     int *p = &n;
     printf("%p\n", p);
     printf("%i\n", n);
-    //dereference operator
+    //dereference operator - allows yout to see the value stored in the address
     printf("%i\n", *p);
 
 }
