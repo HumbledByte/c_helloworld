@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-// Understanding how string compare works if we compare them by the addresses
+// Understanding how string compare works if we compare them by their addresses
 
 int main(void)
 {
