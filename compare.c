@@ -2,7 +2,7 @@
 #include <cs50.h>
 #include <string.h>
 
-// Understanding how string compare works if we compare them by their addresses
+// Comparing strings using char * and the string compare function
 
 int main(void)
 {
